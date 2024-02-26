@@ -12,7 +12,8 @@ This work is licensed under a
 ----
 
 # PRG1674
-Project: Modelling of forest growth related carbon capture capability for application of climate smart forestry
+## Project: Modelling of forest growth related carbon capture capability for application of climate smart forestry
+
 
 This repository combines informations and codes related to the Estonian Research Council project PRG1647.
 
