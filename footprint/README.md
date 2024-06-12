@@ -1,1 +1,1 @@
-Codes related ti the footprint calculations
+Codes related to the footprint calculations
